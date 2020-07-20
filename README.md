@@ -26,12 +26,12 @@ Mordernize application using IBM toolchain
 4. In Gihub source provider section:
   -> Add Repository type as "Existing"
   
-  -> Add Repository URl "https://github.com/Saaad-tariq/Secp-IBM-Toolchain.git"
+  -> Add Repository URL "https://github.com/Saaad-tariq/Secp-IBM-Toolchain.git"
 
 
 ![GitHub Logo](images/12.png)
 
-5. In Tool Integration section , click "new" to generate API
+5. In Tool Integration section , click "New" to generate API
 
 6. Once everything is done press "Create" button
 
