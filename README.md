@@ -2,7 +2,7 @@
 
 Mordernize application using IBM toolchain
 
-## Follow below steps:
+## Follow steps below:
 
 ### Step 1 : Sign-up for IBM Cloud Platform
 
