@@ -11,9 +11,10 @@ Mordernize application using IBM toolchain
 ![GitHub Logo](images/1.png)
 
 
-### Step 2 : It's time to enable toolchain in our application
+### Step 2 : Create Toolchain for your Application
 
 1. Select "Catalog"
+
 2. Search for "Toolchain" .
 
 ![GitHub Logo](images/10.png)
@@ -23,8 +24,8 @@ Mordernize application using IBM toolchain
 ![GitHub Logo](images/11.png)
 
 4. In Gihub source provider section:
-  1) Add Repository type as "Existing"
-  2) Add Repository URl "https://github.com/Saaad-tariq/Secp-IBM-Toolchain.git"
+  -> Add Repository type as "Existing"
+  -> Add Repository URl "https://github.com/Saaad-tariq/Secp-IBM-Toolchain.git"
 
 [https://github.com/Saaad-tariq/Secp-IBM-Toolchain.git](https://github.com/Saaad-tariq/Secp-IBM-Toolchain.git)
 
