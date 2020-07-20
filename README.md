@@ -23,7 +23,7 @@ Mordernize application using IBM toolchain
 
 ![GitHub Logo](images/11.png)
 
-4. In Gihub source provider section:
+4. In Github source provider section:
   -> Add Repository type as "Existing"
   
   -> Add Repository URL "https://github.com/Saaad-tariq/Secp-IBM-Toolchain.git"
