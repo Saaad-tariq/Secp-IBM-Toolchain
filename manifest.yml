@@ -1,4 +1,4 @@
 applications:
 - name: secp-toolchain
-  memory: 256M
+  memory: 128M
   buildpack: sdk-for-nodejs
