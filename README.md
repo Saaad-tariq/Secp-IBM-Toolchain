@@ -6,7 +6,7 @@ Mordernize application using IBM toolchain
 
 ### Step 1 : Sign-up for IBM Cloud Platform
 
-[http://ibm.biz/](http://ibm.biz/)
+[https://ibm.biz/Bdqhvg](https://ibm.biz/Bdqhvg)
 
 ![GitHub Logo](images/1.png)
 
